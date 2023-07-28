@@ -1,4 +1,4 @@
-#INSTAllING DOCKER FILE
+# INSTAllING DOCKER FILE
 1.Download the Docker file from the official website.
 ![image](https://github.com/RevoU-FSSE-2/week-6-firdaussdf/assets/137057784/63126324-3917-48bf-8f0d-250ff71cdcd0)
 2.Double-click on the Docker Desktop Installer.exe to run the installer.
@@ -7,13 +7,13 @@
 When the installation is successful, click Close to complete the installation process.
 ![image](https://github.com/RevoU-FSSE-2/week-6-firdaussdf/assets/137057784/57d270a1-bf2f-4736-a01d-a497bce72dd0)
 
-#Download the Linux kernel update package
+# Download the Linux kernel update package
 The Linux kernel update package installs the most recent version of the WSL 2 Linux kernel for running WSL inside the Windows operating system image. (To run WSL from the Microsoft Store, with more frequently pushed updates, use wsl.exe --install or wsl.exe --update.).
 ![image](https://github.com/RevoU-FSSE-2/week-6-firdaussdf/assets/137057784/0bbd83f1-ceed-4484-8a9a-34c16cb8e065)
 ##Instal WSL on your Computer
 ![image](https://github.com/RevoU-FSSE-2/week-6-firdaussdf/assets/137057784/7a2a9fe3-cb9b-4330-942b-45cd2fbbb4ca)
 
-#Create Docker Account
+# Create Docker Account
 Create a Docker ID
 Go to the Docker Hub signup page.
 
@@ -36,7 +36,7 @@ Your Docker ID must be between 4 and 30 characters long, and can only contain nu
 #Verify docker version with  CMD Terminal as shown as figure below
 ![image](https://github.com/RevoU-FSSE-2/week-6-firdaussdf/assets/137057784/e4e41a18-47c3-4628-82e5-6854754db727)
 
-#Dockerization
+# Dockerization
 1. clone your repository to your PC
 
 2. Open vs Code and crate dockerfile and json 
